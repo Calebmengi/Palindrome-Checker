@@ -95,9 +95,16 @@ p, h1{
     top: 20px;
 }
 
-@media only screen and (max-width: 600px) {
-    .whatsApalindrome {
-    };
+@media only screen and (max-width: 400px) {
+    .machine {
+        width: 300px;
+    }
+    input{
+        width: 250px;
+    }
+    .whatsApalindrome{
+        width: 300px;
+    }
   }
 
 
